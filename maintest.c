@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main (){
 int a, b;
-printf("Hello world1");
+printf("conflict");
+printf("Hello git");
 }
